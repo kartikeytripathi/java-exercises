@@ -34,8 +34,6 @@ class Rectangle implements Shape
         return (2 * (x + y));
     }
 }
-
-
 class Square implements Shape
 {
      @Override
