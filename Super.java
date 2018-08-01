@@ -25,7 +25,6 @@ class newRoom extends Room
 		return length * breadth * height;
 	}
 }
-
 public class Super
 {
 	public static void main(String args[])
@@ -37,4 +36,3 @@ public class Super
 		System.out.println("Volume is " + volume1);
 	}
 }
-	
